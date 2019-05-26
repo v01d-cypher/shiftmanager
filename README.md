@@ -5,7 +5,7 @@
 Project - Rosters, Application - Shiftmanager.
 
 Dev setup:
-`pip install -U pip Django djangorestframework pscycopg2`
+`pip install -U pip Django djangorestframework psycopg2`
 
 Model objects can be interacted with via Admin interface or REST API.
 
